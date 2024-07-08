@@ -1,0 +1,54 @@
+plan geo
+
+times
+countries 
+	asia: 2:35 100%
+	africa: 2:24 96%
+	europe: (r:1:45  98%) 2:15 90%
+
+day 2
+refresh asia capitals - yes
+refresh asia capitals regions - yes
+refresh african - yes
+refresh afrinc capital region - y
+ocen=ia countries - y
+oceania capitals - y
+world flags - turkey, nauru, mali and guinea, marshall island, gabon, gambia, car, repbulic of congo - y
+london landmarks - y
+nine in Time - y
+10 Closest Capitals to London - y
+london boroughs - y
+geo guess london - y
+
+
+day 3
+refresh asian capitals
+refresh oceania capitls
+america capitals
+contient spec weak flags
+states
+geo guesser
+teritory flag - oceania
+
+day 4
+Flags of the World: Progressively Harder - y
+
+day 5
+custom quiz on the se.... quiz site
+africa type in set a time:
+europe type in set a time:
+pacific , eorope, carrieben capitals
+spell the cpuntry 
+spelll the capital -  african - mauritania(forgot) , niger, faso(forgot) , cote(forgot), liberia(forgot), cameroon, chad, sudan(forgot), malawi, comoros(forgot), madafascar, mauritious(forgot)
+			-  asia - mayasia, baglasesh (forgot), bhutan(forgot), sir lanka, tajiskan, palestine, israel, tu
+geo guesser:
+	london
+	usa
+	south africa
+	pretoria
+	classic
+varitations of states
+
+
+
+
